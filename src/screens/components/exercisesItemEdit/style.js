@@ -41,6 +41,8 @@ export const ExerciseSwipe = styled.TouchableHighlight`
 height: 50px;
 background-color: #ff3b1f;
 justify-content: center;
+border-top-left-radius: 8px;
+border-bottom-left-radius: 8px;
 `;
 
 export const ExerciseSwipeIcon = styled.Image`
